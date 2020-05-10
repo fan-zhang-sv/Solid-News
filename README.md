@@ -10,7 +10,7 @@ Thus, I'd love to build this app to help to bridge the gap between countries/are
 
 # Functionality
 
-This app is based on Flutetr, and has four main section.
+This app is based on Flutetr, and has four main sections.
 
 ## Top News
 
