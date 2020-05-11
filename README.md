@@ -2,6 +2,8 @@
 
 This is an app for tracking news from countries speaing the same langauge.
 
+<img src="https://github.com/fan-zhang-sv/Solid-News/blob/master/preview/reading-an-article-on-iphone-11-mockup.jpeg?raw=true">
+
 ## Intention for building this app
 
 Growing up in mainland China, and now moved to the US, I found that after constantly receiving information from one source or the same political campaign, people may show less empathy towards views from other campaigns. And this informational vicious circle has worsened the relationships between many countries/areas.
